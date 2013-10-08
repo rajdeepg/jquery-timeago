@@ -1,0 +1,17 @@
+{
+  "name": "JQuery-TimeAgo",
+  "version": "1.3.1",
+  "homepage": "https://github.com/rajdeepg/jquery-timeago",
+  "authors": [
+    "Rajdeep Gupta <rajdeep.gupta@autodesk.com>"
+  ],
+  "main": "jquery.timeago.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
